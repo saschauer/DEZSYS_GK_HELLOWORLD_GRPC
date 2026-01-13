@@ -26,4 +26,7 @@ Compile .proto file
 Start HelloWorldClient (Python)  
 `python3 src/main/resources/helloWorldClient.py`  
 
+## Fehler
+- Dateipfad enthielt Sonderzeichen
+
 ## Quellen
